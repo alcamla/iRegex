@@ -41,6 +41,7 @@
 		1703DFB119E995F10019822A /* iRegexTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iRegexTests.swift; sourceTree = "<group>"; };
 		174C767019EAE0F20052D4F8 /* SearchOptionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchOptionsViewController.swift; sourceTree = "<group>"; };
 		17B9B3D419EBFFCB003FB62B /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		6C5BC99C1CB53AE9000FA2FA /* iRegex.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = iRegex.playground; sourceTree = "<group>"; };
 		6C6E3DAD1CB2AF9700E6AA09 /* RegexHelpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegexHelpers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,6 +84,7 @@
 		1703DF9619E995F10019822A /* iRegex */ = {
 			isa = PBXGroup;
 			children = (
+				6C5BC99C1CB53AE9000FA2FA /* iRegex.playground */,
 				1703DF9919E995F10019822A /* AppDelegate.swift */,
 				1703DF9B19E995F10019822A /* SearchViewController.swift */,
 				6C6E3DAD1CB2AF9700E6AA09 /* RegexHelpers.swift */,
